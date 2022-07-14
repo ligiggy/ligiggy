@@ -16,7 +16,7 @@
 
 * Windows
 
-**tools:**
+**Tools:**
 
 * Visual Studio
 * QtCreator
