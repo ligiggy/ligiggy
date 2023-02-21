@@ -22,6 +22,7 @@
 * QtCreator
 * Visual Studio Code
 * Git
+* SVN
 
 **Language:**
 
