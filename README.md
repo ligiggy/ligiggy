@@ -1,8 +1,8 @@
 ### Hi there, I'm Giggy👋
 
 
-- 🔭 I'am a windows software developer.
-- 🌱 I'am familiar with Qt, WPF, WindowsForm.
+- 🔭 I'm a windows software developer.
+- 🌱 I'm familiar with Qt, WPF, WindowsForm.
 - 📫 Also,I have used some communication protocols, such as tcp/ip, modbus, serial port, shared memory and so on.
 - 😄 Glad to making friends on network.
 
